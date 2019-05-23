@@ -3,7 +3,8 @@
 Text Editor in ASM. I decided to base my GUI off notepad cause I think it was a nice basic color palette (Blue and white). 
 
 ## How to run
-It runs from the command line with the parameters being the name of a txt file. I used a file called test.txt that you see in the branch above. 
+1. It can be ran from the command line with the parameters being the name of a txt file. I used a file called test.txt that you see in the branch above. 
+2. It can be ran in the emulator known as "emu8086". 
 
 ## Features
 1. Insert/Overtyping
